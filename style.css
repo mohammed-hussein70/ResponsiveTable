@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  scrollbar-width: thin;
+}
+table {
+  width: 100%;
+  background-color: #f0f0f0;
+  border-collapse: collapse;
+}
+td,
+th {
+  text-align: left;
+  padding: 10px;
+}
+tr:nth-child(even) {
+  background-color: #d1d0d0f2;
+}
